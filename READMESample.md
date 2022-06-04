@@ -1,15 +1,19 @@
-# sagefg
+# READMEGen
   # Description
-   asgae
+   User is able to generate a README file by answering the questions they're prompted with.
   # Installation
-   afgae
+   gasgearhrw
   # Usage
-   sadgaew
-  # Distribute
-   asdgareg
+   fgaeheae
+  # Distribution
+   dafhaehaeh
   # Test
-   fagae
+   dzfhathate
   # License
-   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+   [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+   # GitHub
+   breschmidt182
+   # Contact Info
+   breanna.schmidt12@gmail.com
 
    

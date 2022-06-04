@@ -17,7 +17,7 @@ const questions = [
     {
         type: 'input',
         name: 'installation',
-        message: 'How do you install the project dependency?',
+        message: 'How do you install the project?',
     },
     {
         type: 'input',
@@ -34,13 +34,23 @@ const questions = [
     {
         type: 'input',
         name: 'distribute',
-        message: 'How do I contribute?',
+        message: 'How do I distribute?',
     },
     {
         type: 'input',
         name: 'test',
         message: 'How do I test this?',
     },
+    {
+        type: 'input',
+        name: 'github',
+        message: 'What is your GitHub username?',
+    },
+    {
+        type: 'input',
+        name: 'contact',
+        message: 'What is your email?',
+    }
    
 ];
 
