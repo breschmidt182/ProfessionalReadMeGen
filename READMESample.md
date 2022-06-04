@@ -1,19 +1,19 @@
 # READMEGen
   # Description
-   User is able to generate a README file by answering the questions they're prompted with.
+   Generate README
   # Installation
-   gasgearhrw
+   safgWRG
   # Usage
-   fgaeheae
+   ASGFG
   # Distribution
-   dafhaehaeh
+   DSFHET
   # Test
-   dzfhathate
+   DSHS
   # License
-   [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+   [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
    # GitHub
-   breschmidt182
+   DGH
    # Contact Info
-   breanna.schmidt12@gmail.com
+   DFSH
 
    
