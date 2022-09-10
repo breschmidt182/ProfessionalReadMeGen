@@ -27,6 +27,9 @@ THEN I am taken to the corresponding section of the README
 # Description
 User is able to generate a README for a project by answering the questions given.
 
+# To Run App
+First install all packages by running npm i in the terminal. Then once that is completed run npm start this should get the app to pop up in the terminal. Go through and answer all of the questions. Once finished a ReadMe file should be generated. To exit the app hit ctrl + c.
+
 # Screenshot
 ![Screenshot of READMESample](./Screenshot%202022-06-04%20121615.png)
 
